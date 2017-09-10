@@ -1,0 +1,114 @@
+Alle PLU i Bruk pa Kiwi Tertnes Versjon 1.0:
+
+Frukt & Gront PLU - Skrevet i alfabetisk rekkefolge:
+
+Agurk - 4316
+Ananas - 4430
+Appelsiner - 4196
+Asparges - 4090
+Aubergine - 4081
+Avokado - 4222
+Bakepoteter - 4367
+Banan - 4011
+Biff Tomat - 3061
+Blomkal - 4079
+Brokkoli - 4349
+Bringeber Kurv - 3081
+Champignon/Sjampinjong - 4645
+Dadler - 3047
+Druer Gronne Losvekt - 4274
+Epler Gronn - 4139
+Epler Gule - 4021
+Epler Norske - 4204
+Epler Rode - 4015
+Fennikel - 4515
+Fersken - 4038
+First Price Bananer - 4186
+Granateple - 4445
+Grapefrukt - 4281
+Hodekal - 3050
+Ingefer - 4612
+Isberg Salat - 4376
+Jordber Kurv Import (Gjennomsiktig) - 3355
+Jordber Kurv Norske (Svart) - 4197
+Kinakal i Pakke - 4355
+Kiwi Stk - 4030
+Knutekal - 4628
+Klementiner - 4055
+Kalrot - 4747
+Lime Stk - 4048
+Lok Losvekt - 4358
+Mango - 4959
+Melon: Cantaloupe - 4049
+Melon: Honning - 4317
+Melon: Piel de Sapo - 3101
+Melon: Vannmelon Delt - 4031
+Melon: Vannmelon Hel - 4032
+Nektarin - 4036
+Nektarin Kurv - 4276
+Neper Bunt - 4810
+Nypoteter Losvekt - 4073
+Paprika First Price 2pk - 4360
+Paprika Gronn - 4065
+Paprika Rod - 4088
+Paprika Sotspisset 2pk - 4702
+Paprika Trafikklys - 4362
+Pastinakk - 4363
+Persillerot - 4671
+Perer - 3017
+Plommer Norske - 4405
+Plommer Rode/Bla - 4041
+Rettich - 4740
+Rodbeter Bunt 3pk - 4539
+Sellerirot - 4390
+Sitron - 4033
+Squash - 4067
+Stangselleri - 4380
+Sotpotet - 4091
+Tomater - 4064
+Okologiske Bananer - 94011
+Okologiske Blomkal - 94079
+Okologiske Brokkoli - 94349
+            
+Ferske Bakevarer PLU - Skrevet i alfabetisk rekkefolge:
+Legg merke til at vi bruker Sommerbolle - 2013, Solskinnsbolle 2042 selges ikke lenger.
+
+Croissant - 2854
+Energistykke - 2651
+Gresskarstykke Grov - 2088
+Havrebrix - 9060
+Kanelknute - 2047
+Kornbaguette - 2009
+Lunsjhjul - 2502
+Minipizza - 6085
+Ostebaguette - 2297
+Ostehorn - 6882
+Rundstykke Fint - 2084
+Rundstykke Grov/Kneip - 2085
+Skillingsbolle - 2039
+Skolebrod - 2040
+Solsikkestykke - 2007
+Sommerbolle - 2013
+Tebrix - 9063
+Tvist Grov Piripiri - 2008
+Wienerbrod - 2048
+
+Andre nyttige PLU - Skrevet i alfabetisk rekkefolge:
+
+Coca Cola 4pk - 9534
+Cola Zero 4pk - 9535
+Cola Zero 1.25L 6pk - 9995
+Farin/Sukker 10kg - 9050
+Fyrstikkeske 1x - 9010
+Grillkull 2.5kg - 9935
+Hvetemel 4x2kg - 9997
+Kiwi Pluss - 1100
+Mypack Betaling i Kasse - 9980
+Mandler Losvekt - 4924
+Notter Losvekt - 9018
+Pant Kasse - 9011
+Pepsi Max 4pk - 5670
+Pepsi Max 8pk - 9045\nReker - 1900
+Reker 5kg 90/130 Stor Eske - 1895
+Smagodt - 9009
+Smagodt i Beger - 509
